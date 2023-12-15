@@ -3,7 +3,7 @@ Welcome to my Software Engineer Portfolio, a project completed as part of my int
 
 Github Profile [link](https://github.com/parthdoshi7)
 
-![app](assets/image.png) 
+![app](image.png) 
 
 # Overview
 This portfolio showcases my skills, projects, and experiences as a software engineer. Crafted using HTML, CSS, Bootstrap, and JavaScript for a responsive and interactive design.
