@@ -1,6 +1,8 @@
 # CODSOFT_Intern_Portfolio
 Welcome to my Software Engineer Portfolio, a project completed as part of my internship with CODSOFT.
 
+Parth's Portfolio [Live Demo here](https://parthdoshi7.github.io/CODSOFT_Intern_Portfolio/)
+
 Github Profile [link](https://github.com/parthdoshi7)
 
 ![app](image.png) 
